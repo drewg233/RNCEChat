@@ -1,6 +1,6 @@
-import RNCEMainChat from './lib/MainChat';
-import RNCEMessage from './lib/Message';
-import RNCEMessageList from './lib/MessageList';
+import RNCEMainChat from './lib/RNCEMainChat';
+import RNCEMessage from './lib/RNCEMessage';
+import RNCEMessageList from './lib/RNCEMessageList';
 
 module.exports = {
 	RNCEMainChat,
