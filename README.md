@@ -4,7 +4,7 @@ Based off of `chat-engine-react-native`
 
 To get started:
 ```
-npm install --save RNCEChat
+npm install --save rncechat
 ```
 
 ## Description
