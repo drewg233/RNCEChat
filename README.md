@@ -17,7 +17,7 @@ import { RNCEChat } from 'RNCEChat';
 
 Then add this inside view tags:
 ```
-<RNCEMainChat publishKey="YOURPUBLISHKEY" subscribeKey="YOURSUBSCRIPTIONKEY" chatRoomName="YOURCHATROOMNAME" />
+<RNCEChat publishKey="YOURPUBLISHKEY" subscribeKey="YOURSUBSCRIPTIONKEY" chatRoomName="YOURCHATROOMNAME" />
 ```
 
 Customizations coming soon.
