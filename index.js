@@ -1,9 +1,9 @@
-import MainChat from './lib/MainChat';
-import Message from './lib/Message';
-import MessageList from './lib/MessageList';
+import RNCEMainChat from './lib/MainChat';
+import RNCEMessage from './lib/Message';
+import RNCEMessageList from './lib/MessageList';
 
 module.exports = {
-	MainChat,
-	Message,
-	MessageList
+	RNCEMainChat,
+	RNCEMessage,
+	RNCEMessageList
 };
