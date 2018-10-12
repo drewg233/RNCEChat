@@ -12,7 +12,6 @@
     "chat-engine": "^0.9.19",
     "chat-engine-gravatar": "0.0.10",
     "chat-engine-typing-indicator": "0.0.9",
-    "react-native-elements": "^0.19.1",
     "react-native-htmlview": "^0.13.0"
   }
 }
